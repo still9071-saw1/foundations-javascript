@@ -71,6 +71,7 @@ const price = 100;
 
 * 「=」と「===」の違いが曖昧
 * letとconstの使い分けに迷った
+* Javascriptの実行方法が分からなかった
 
 ---
 
@@ -78,6 +79,7 @@ const price = 100;
 
 * JavaScriptは値を操作して処理する言語
 * console.logで動作確認するのが基本
+* 後半に行くに従って難易度が上がる事
 
 ---
 
