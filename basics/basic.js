@@ -1,5 +1,3 @@
-console.log("Hello JavaScript");
-
 let a = 1 + 2;
 console.log(a);
 
@@ -25,3 +23,7 @@ console.log(g);
 let h = 20;
 h -= 10; // h = h - 10
 console.log(h);
+
+alert("Hello JavaScript");
+
+alert("Hello World");
